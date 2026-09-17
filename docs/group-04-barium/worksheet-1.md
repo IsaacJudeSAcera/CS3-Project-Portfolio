@@ -57,14 +57,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> We observed that a few times 1 or 2 papers are missing when the teacher redistributes the assignment back to the students
+> We observed difficulties/inconsistencies in redistributing the papers back to the students, often finding a few papers missing. This is a huge problem for students who want to keep track of their assignments.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> We could automate the process of recording and keeping track of who submitted.
-
+> The process of recording the submission itself and the person who made the submission could be fully automated for a more consistent experience.
 <br>
 
 ---
