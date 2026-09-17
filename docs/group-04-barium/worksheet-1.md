@@ -22,13 +22,13 @@
 ## 2. Observe the Current Process
 
 ### 1. What process did you observe?
+> We observed the physical submission of assignments via pigeon hole 
 
-r
-
+<br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> To allow for a flexible time range to submit assignments as supposed to submitting assignments as a group or class submission
 
 <br>
 
@@ -38,17 +38,17 @@ r
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.    Student      |            Submits the assignment                   |
+| 2.    Teacher      |             Gets the assignment from the pigeonhole                  |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
+| 1    |       Assignment is submitted        |                  Student    |
+| 2    |     Assignment is retrived from the pigeon hole         |    Teacher                  |
+| 3    |       Assignment is graded        |                      |   Teacher
+| 4    |       Assignment is given back to student(optional)       |   Teacher                   |
 | 5    |               |                      |
 
 ---
