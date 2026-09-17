@@ -57,13 +57,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> We observed that a few times 1 or 2 papers are missing when the teacher redistributes the assignment back to the students
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> We could automate the process of recording and keeping track of who submitted.
 
 <br>
 
@@ -73,7 +73,8 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> The proposed system would make the student sign in their name grade and which assignment they're submitting and the system would sort their paper by grade and
+> keep track of who submitted so the teacher doesn't have to.
 
 <br>
 
@@ -81,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1.Students        |    Keep track of assignment submissions          |
+| 2.  Teachers      |    Keep track of assignment submissions          |
 
 ### 3. What are the essential features?
 
@@ -90,6 +91,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
+| 1.  Sorting    |     Sorts assignments by grade level    |
+| 2.  Tracking    |     Tracks who has submitted their assignments    |
 | 3.      |         |
