@@ -47,7 +47,7 @@
 | ---- | ------------- | -------------------- |
 | 1    |       Assignment is submitted        |                  Student    |
 | 2    |     Assignment is retrived from the pigeon hole         |    Teacher                  |
-| 3    |       Assignment is graded        |                      |   Teacher
+| 3    |       Assignment is graded        |           Teacher           |   
 | 4    |       Assignment is given back to student(optional)       |   Teacher                   |
 | 5    |               |                      |
 
