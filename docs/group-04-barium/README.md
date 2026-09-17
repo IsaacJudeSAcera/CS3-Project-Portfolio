@@ -2,12 +2,13 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Acera, Isaac Jude Niño S.
+2. Parayno, Keith Eljun Yalong
+3.Mumar, Marvin Jacob Patinio
+4. Lee, Psalm Nathaniel
+5. Sabas, King Christopher Elumbaring
+6. Lacson, Asher Jhesurum Fuentes
+   
 
 ## Project Title
 
