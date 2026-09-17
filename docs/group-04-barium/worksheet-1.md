@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** |     Automation and sorting of physical assignment submitions    |
 | **Team Members**           | 1.      |
 |                            | 2.      |
 |                            | 3.      |
