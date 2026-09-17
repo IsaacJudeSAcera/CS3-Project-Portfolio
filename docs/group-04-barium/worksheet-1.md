@@ -23,9 +23,8 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+r
 
-<br>
 
 ### 2. What is the purpose of this process?
 
