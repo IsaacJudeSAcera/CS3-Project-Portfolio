@@ -82,7 +82,7 @@
 | User/Role | Possible Use |
 | --------- | ------------ |
 | 1.Students        |    Keep track of assignment submissions          |
-| 2.  Teachers      |    Keep track of assignment submissions          |
+| 2.Teachers      |    Keep track of assignment submissions          |
 
 ### 3. What are the essential features?
 
@@ -92,4 +92,4 @@
 | ------- | ------- |
 | 1.  Sorting    |     Sorts assignments by grade level    |
 | 2.  Tracking    |     Tracks who has submitted their assignments    |
-| 3.      |         |
+| 3.  Calculation   |    Calculates grades from assesments to an average      |
