@@ -81,28 +81,26 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Teacher
 
 **Purpose:**  
-__________________________________________________
+Gives and collects assessments 
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|Name|Identify Teachers|
+|Subject|Identify what subject the teacher teaches|
+|Grade Level|Identify what grade level they are responsible for|
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|Give AssessmentGive assessment to student|
+|Collect assessment|Collect assessment from pigeon hole|
+
 
 ---
 
