@@ -15,9 +15,9 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |Teacher |Creates worksheets/activities and receives submissions from the pigeon hole. |
+| 2 |Student |Completes the activities/worksheets. Contains grade level and submission status. |
+| 3 |Worksheet |The creation of the teacher to be completed and submitted by the student. |
 | 4 | | |
 | 5 | | |
 | 6 | | |
